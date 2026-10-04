@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "digest": "sha256:9fed9d088423e63cc6c618e6cc919a11ce1a660227523c78763a847ed661ea6b",
-  "released_at": "2026-10-04T12:15:56Z",
-  "notes": "Fixes the missing web interface: in 1.3.0 every page answered Not Found, because the app served only its API.",
+  "version": "1.3.3",
+  "digest": "sha256:1a5709b33c2503f183602495e2d8bf1594e5eef41a5106f6ac19d46f91bc0080",
+  "released_at": "2026-10-04T14:23:02Z",
+  "notes": "Protects the data across updates: versioned database changes with a copy before each, verified backups and restores, and logs that survive updates.",
   "breaking": false
 }
