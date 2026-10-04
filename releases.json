@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
-  "digest": "sha256:1a5709b33c2503f183602495e2d8bf1594e5eef41a5106f6ac19d46f91bc0080",
-  "released_at": "2026-10-04T14:23:02Z",
-  "notes": "Protects the data across updates: versioned database changes with a copy before each, verified backups and restores, and logs that survive updates.",
+  "version": "1.3.4",
+  "digest": "sha256:9c2005d09cfe404b2ec162d839c2638bc874e5efec8fa9966f4cc97e426305dd",
+  "released_at": "2026-10-04T15:38:01Z",
+  "notes": "Backups store only what changed: incremental, deduplicated, compressed and encrypted, so they stay small and quick with millions of reports.",
   "breaking": false
 }
