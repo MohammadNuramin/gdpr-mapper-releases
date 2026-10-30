@@ -1,7 +1,7 @@
 {
-  "version": "1.3.6",
-  "digest": "sha256:aea86630b09b8ad8fca69e3c6b902908ff9035e16e30b3bf428d3bf1908e87ff",
-  "released_at": "2026-10-30T10:22:45Z",
-  "notes": "Folder scans run on the server and show live what they do, the mapper keeps a log you can send, and it reads many more file types: old Word and Excel, CSV, PowerPoint, scanned images, ZIP.",
+  "version": "1.3.7",
+  "digest": "sha256:1b487f6009f2cc68bf8da9a4cac69586e9edafa85c536d7b820a713ccec3821f",
+  "released_at": "2026-10-30T12:53:42Z",
+  "notes": "Outlook mailboxes (.pst, .ost) are read item by item, and photos without text are listed instead of being read as text.",
   "breaking": false
 }
