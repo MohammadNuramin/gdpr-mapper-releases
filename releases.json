@@ -1,7 +1,7 @@
 {
-  "version": "1.3.5",
-  "digest": "sha256:289af65eb7634bdc96898e76ee829f88111823637d77a2216a496f96de264973",
-  "released_at": "2026-10-24T16:24:50Z",
-  "notes": "Big scans continue where they stopped, documents not read in full always go to review, the registers load on a new Registers page, and your organisation sets the backup password.",
+  "version": "1.3.6",
+  "digest": "sha256:aea86630b09b8ad8fca69e3c6b902908ff9035e16e30b3bf428d3bf1908e87ff",
+  "released_at": "2026-10-30T10:22:45Z",
+  "notes": "Folder scans run on the server and show live what they do, the mapper keeps a log you can send, and it reads many more file types: old Word and Excel, CSV, PowerPoint, scanned images, ZIP.",
   "breaking": false
 }
