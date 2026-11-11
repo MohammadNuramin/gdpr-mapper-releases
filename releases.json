@@ -1,7 +1,7 @@
 {
-  "version": "1.3.7",
-  "digest": "sha256:1b487f6009f2cc68bf8da9a4cac69586e9edafa85c536d7b820a713ccec3821f",
-  "released_at": "2026-10-30T12:53:42Z",
-  "notes": "Outlook mailboxes (.pst, .ost) are read item by item, and photos without text are listed instead of being read as text.",
+  "version": "1.3.8",
+  "digest": "sha256:d1a3dc0f7aee0da45ced301e043ac01190277100eace963c3ccb21d5857bbcf3",
+  "released_at": "2026-11-11T20:03:41Z",
+  "notes": "Uploads run as scans on the server, a page of past scans with a report for each whole scan, live progress that moves, and the viewer shows every document.",
   "breaking": false
 }
